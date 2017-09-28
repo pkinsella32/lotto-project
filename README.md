@@ -1,0 +1,2 @@
+# lotto-project
+Course project
